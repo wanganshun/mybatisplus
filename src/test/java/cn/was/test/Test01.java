@@ -1,7 +1,7 @@
 package cn.was.test;
 
 import cn.was.entity.TbUser;
-import lombok.extern.slf4j.Slf4j;
+//import lombok.extern.slf4j.Slf4j;
 import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import sun.rmi.runtime.Log;
@@ -17,7 +17,7 @@ import java.util.concurrent.TimeUnit;
  * @create: 2022-08-19 17:51
  **/
 
-@Slf4j(topic = "c.Test")
+/**@Slf4j(topic = "c.Test")
 public class Test01 {
     static int r=0;
 
@@ -67,3 +67,4 @@ public class Test01 {
 
 
 }
+**/
