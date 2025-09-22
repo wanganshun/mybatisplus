@@ -1,0 +1,10 @@
+cn\was\entity\TbUser.class
+cn\was\service\impl\TbUserServiceImpl.class
+cn\was\config\MyMetaObjectHandler.class
+cn\was\service\ITbUserService.class
+cn\was\config\Swagger2Config.class
+cn\was\controller\TbUserController.class
+cn\was\enums\SexEnum.class
+cn\was\generator\FastAutoGeneratorTest.class
+cn\was\MybatisplusApplication01.class
+cn\was\mapper\TbUserMapper.class
